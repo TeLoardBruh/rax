@@ -188,9 +188,17 @@ export default {
           dis: "Rax-gallery is an idea for an internet gallery that displays my digital pictures. And it is one of the most effective methods for others to showcase their portfolio to the world at a low cost.",
           tools: [{ tool: "Vue Js" }, { tool: "CSS Grid-System" }],
           linkImg: "./img/rax-gallery.png",
-          
           linkWeb: "https://rax-gallery.netlify.app/",
           linkGit: "https://github.com/TeLoardBruh/vue-rax-gallery",
+        },
+        {
+          id: "3",
+          name: "A-rena",
+          dis: "A-rena is an idea for an gaming community",
+          tools: [{ tool: "Vue Js" }, { tool: "CSS Grid-System" }],
+          linkImg: "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          linkWeb: "https://teloardbruh.github.io/-Arena/",
+          linkGit: "https://github.com/TeLoardBruh/-Arena/",
         },
       ],
     };
