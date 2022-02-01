@@ -195,8 +195,9 @@ export default {
           id: "3",
           name: "A-rena",
           dis: "A-rena is an idea for an gaming community",
-          tools: [{ tool: "Vue Js" }, { tool: "CSS Grid-System" }],
-          linkImg: "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          tools: [{ tool: "HTML" }, { tool: "SCSS" }],
+          linkImg:
+            "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
           linkWeb: "https://teloardbruh.github.io/-Arena/",
           linkGit: "https://github.com/TeLoardBruh/-Arena/",
         },
